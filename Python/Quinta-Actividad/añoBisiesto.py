@@ -1,4 +1,4 @@
-def Biciesto(dato):
+def Bisiesto(dato):
     if dato % 4 == 0:
         if dato % 100 == 0:
             if dato % 400 == 0:
